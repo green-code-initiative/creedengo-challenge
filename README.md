@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="challenge-logo.png">
-</p>
-<h1 align="center">Welcome to our 3<sup>rd</sup> Hackathon</h1>
+<h1 align="center">Welcome to our 4<sup>th</sup> Hackathon</h1>
 
 Starter pack for challenge : [Starter pack](starter-pack-challenge.md)
 <br/><br/>

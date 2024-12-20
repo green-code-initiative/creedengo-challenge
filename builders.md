@@ -1,6 +1,6 @@
 # Hello! Welcome to the builder team 👋
 
-Interested in adding rules to one of the ecoCode plugins? You are at the right place.\
+Interested in adding rules to one of the creedengo plugins? You are at the right place.\
 This guide will go through the **important elements** you might need for a successful challenge!
 
 ## Prerequisites
@@ -14,18 +14,18 @@ Here are the things you need to succeed in this challenge:
 ## 🎒 Starter pack
 
 Follow [this complete guide](starter-pack-challenge.md) to get ready BEFORE the challenge starts!\
-In case of difficulty or question about the installation procedure before the beginning of the challenge, you can [open a ticket here](https://github.com/green-code-initiative/ecoCode-common/issues).
+In case of difficulty or question about the installation procedure before the beginning of the challenge, you can [open a ticket here](https://github.com/green-code-initiative/creedengo-common/issues).
 
 ## ✅ What's left to be done
 
 Here are the files containing the up to date list of rules to implement according to the chosen programming language:
 
-- [Web rules](https://github.com/green-code-initiative/ecoCode/blob/main/RULES.md)
-- [Android (Java) rules](https://github.com/green-code-initiative/ecoCode-android/blob/main/android-plugin/RULES.md)
-- [iOS (Swift) rules](https://github.com/green-code-initiative/ecoCode-ios/blob/main/RULES.md)
+- [Web rules](https://github.com/green-code-initiative/creedengo-rules-specifications/blob/main/RULES.md)
+- [Android (Java) rules](https://github.com/green-code-initiative/creedengo-android/blob/main/android-plugin/RULES.md)
+- [iOS (Swift) rules](https://github.com/green-code-initiative/creedengo-ios/blob/main/RULES.md)
 
 Second way to find new rules to implement :
-- go to "issue" tab of the wanted language plugin (ex for "java " plugin : [ecoCode-java/issues](https://github.com/green-code-initiative/ecoCode-java/issues))
+- go to "issue" tab of the wanted language plugin (ex for "java " plugin : [creedengo-java/issues](https://github.com/green-code-initiative/creedengo-java/issues))
 - get one issue with `rule-idea` tag
 - check content and think how to implement this one
 
@@ -33,14 +33,14 @@ You don't have enough rules? Go and give a hand to the [spotters team](spotters.
 
 ## 🚦 Contribute, but in the right way
 
-It is best to first read the [common ecoCode contribution guide](https://github.com/green-code-initiative/ecoCode-common/blob/main/doc/CONTRIBUTING.md).\
+It is best to first read the [common creedengo contribution guide](https://github.com/green-code-initiative/creedengo-common/blob/main/doc/CONTRIBUTING.md).\
 Code quality is very important in this complex project. Each plugin works differently and you have to learn their coding style.
 
 For some languages, there are specific contribution guidelines. Follow the guides for the languages you are interested in below:
 
-- Web: [C#](https://github.com/green-code-initiative/ecoCode-csharp/blob/main/README.md)
-- Web: [JavaScript](https://github.com/green-code-initiative/ecoCode-javascript/blob/main/CONTRIBUTING.md)
-- Mobile: [Android (Java)](https://github.com/green-code-initiative/ecoCode-android/blob/main/CONTRIBUTING.md) • [iOS (Swift)](https://github.com/green-code-initiative/ecoCode-ios/blob/main/CONTRIBUTING.md)
+- Web: [C#](https://github.com/green-code-initiative/creedengo-csharp/blob/main/README.md)
+- Web: [JavaScript](https://github.com/green-code-initiative/creedengo-javascript/blob/main/CONTRIBUTING.md)
+- Mobile: [Android (Java)](https://github.com/green-code-initiative/creedengo-android/blob/main/CONTRIBUTING.md) • [iOS (Swift)](https://github.com/green-code-initiative/creedengo-ios/blob/main/CONTRIBUTING.md)
 
 It's time for development, good luck builder! ⚒️
 
@@ -48,7 +48,7 @@ It's time for development, good luck builder! ⚒️
 
 If you have any questions, coaches are here to help you or use the dedicated channel on Slack:
 
-- [ecoCode public Slack](https://ecocode-workspace.slack.com/) - [Join](https://join.slack.com/t/ecocode-workspace/shared_invite/zt-1soofawn4-Jos03e03VEQPWrw6yhgz7g)
+- [creedengo public Slack]([https://green-code-initiative.slack.com/](https://join.slack.com/t/green-code-initiative/shared_invite/zt-2khiimt8x-6l2Vrk9ogUy0zQMPGRSueQ))
   - Main channel: `challenge24-general`
   - Builders channel: `challenge24-builders`
 

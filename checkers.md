@@ -96,7 +96,7 @@ For example, it may need access to your digital services or analytics accounts, 
 
 If you have any questions, coaches are here to help you or use the dedicated channel on Slack:
 
-- [ecoCode public Slack (https://ecocode-workspace.slack.com/)](https://join.slack.com/t/ecocode-workspace/shared_invite/zt-1soofawn4-Jos03e03VEQPWrw6yhgz7g)
+- [creedengo public Slack]([https://green-code-initiative.slack.com/](https://join.slack.com/t/green-code-initiative/shared_invite/zt-2khiimt8x-6l2Vrk9ogUy0zQMPGRSueQ))
   - Main channel: `challenge24-general`
   - Checkers channel: `challenge24-checkers`
 
