@@ -5,7 +5,7 @@
     <img alt="Challenge logo" width="500" height="120" src="assets/images/logo_dark.png">
   </picture>
 </div>
-<br/><br/>
+<br/>
 <h1 align="center">Welcome to our 4<sup>th</sup> Hackathon</h1>
 
 Starter pack for challenge : [Starter pack](starter-pack-challenge.md)
