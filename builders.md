@@ -21,7 +21,7 @@ In case of difficulty or question about the installation procedure before the be
 Here are the files containing the up to date list of rules to implement according to the chosen programming language:
 
 - [Web rules](https://github.com/green-code-initiative/creedengo-rules-specifications/blob/main/RULES.md)
-- [Android (Java) rules](https://github.com/green-code-initiative/creedengo-android/blob/main/android-plugin/RULES.md)
+- [Android (Java) rules](https://github.com/green-code-initiative/ecoCode-android/blob/main/android-plugin/RULES.md)
 - [iOS (Swift) rules](https://github.com/green-code-initiative/creedengo-ios/blob/main/RULES.md)
 
 Second way to find new rules to implement :
@@ -40,7 +40,7 @@ For some languages, there are specific contribution guidelines. Follow the guide
 
 - Web: [C#](https://github.com/green-code-initiative/creedengo-csharp/blob/main/README.md)
 - Web: [JavaScript](https://github.com/green-code-initiative/creedengo-javascript/blob/main/CONTRIBUTING.md)
-- Mobile: [Android (Java)](https://github.com/green-code-initiative/creedengo-android/blob/main/CONTRIBUTING.md) • [iOS (Swift)](https://github.com/green-code-initiative/creedengo-ios/blob/main/CONTRIBUTING.md)
+- Mobile: [Android (Java)](https://github.com/green-code-initiative/ecoCode-android/blob/main/CONTRIBUTING.md) • [iOS (Swift)](https://github.com/green-code-initiative/creedengo-ios/blob/main/CONTRIBUTING.md)
 
 It's time for development, good luck builder! ⚒️
 
@@ -49,7 +49,7 @@ It's time for development, good luck builder! ⚒️
 If you have any questions, coaches are here to help you or use the dedicated channel on Slack:
 
 - [creedengo public Slack]([https://green-code-initiative.slack.com/](https://join.slack.com/t/green-code-initiative/shared_invite/zt-2khiimt8x-6l2Vrk9ogUy0zQMPGRSueQ))
-  - Main channel: `challenge24-general`
-  - Builders channel: `challenge24-builders`
+  - Main channel: `challenge25-general`
+  - Builders channel: `challenge25-builders`
 
 You can also create private discussions with all members of your team using the direct messages Slack feature.
