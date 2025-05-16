@@ -22,13 +22,14 @@ Example :
 **Language and platform**
 
 The language and platform of the associated rule.  
-Example: `Python`  
+Example: `Python` or `Android Java`
 It's supposed to be described in the rule itself.
 
 **Measure justification**
 
-**Very important**: give us elements that justify that your measure of this rule justifies (or doesn't) the environmental impact.
-Without a good justification, your measure will not be accepted by Green Code Initiative.
+**Very important**: Give us elements that justify your measure of this rule, justifying (or not) the environmental impact.
+Without a good justification, the Green Code Initiative will not accept your measure.
+If you used a tool, specify which tool and add screenshots or reports as attachment to this issue.
 
 Here are some elements that can help to justify your measure:
 - A publication or documentation that calculates the impact of the rule (provide the link to the documentation or at least a reference if the documentation is not available online). Please indicate us where to find the information in the document (page, paragraph) and perform a summary if possible.
