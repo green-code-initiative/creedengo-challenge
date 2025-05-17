@@ -13,23 +13,14 @@ Here are the things you need to succeed in this challenge:
 
 ## 🎒 Starter pack
 
-Follow [this complete guide](starter-pack-challenge.md) to get ready BEFORE the challenge starts!\
+Follow [this complete guide](https://github.com/green-code-initiative/creedengo-common/blob/main/doc/starter-pack.md) to get ready BEFORE the challenge starts!\
 In case of difficulty or question about the installation procedure before the beginning of the challenge, you can [open a ticket here](https://github.com/green-code-initiative/creedengo-common/issues).
+
+WARNING : The "Requirements" part is very important to be ready for the day 1 !
 
 ## ✅ What's left to be done
 
-Here are the files containing the up to date list of rules to implement according to the chosen programming language:
-
-- [Web rules](https://github.com/green-code-initiative/creedengo-rules-specifications/blob/main/RULES.md)
-- [Android (Java) rules](https://github.com/green-code-initiative/ecoCode-android/blob/main/android-plugin/RULES.md)
-- [iOS (Swift) rules](https://github.com/green-code-initiative/creedengo-ios/blob/main/RULES.md)
-
-Second way to find new rules to implement :
-- go to "issue" tab of the wanted language plugin (ex for "java " plugin : [creedengo-java/issues](https://github.com/green-code-initiative/creedengo-java/issues))
-- get one issue with `rule-idea` tag
-- check content and think how to implement this one
-
-You don't have enough rules? Go and give a hand to the [spotters team](spotters.md).
+You can see what you can do here : [Implement a new rule](https://github.com/green-code-initiative/creedengo-common/blob/main/doc/starter-pack.md#implement-a-new-rule)
 
 ## 🚦 Contribute, but in the right way
 
