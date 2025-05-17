@@ -16,7 +16,7 @@ Here are the things you need to succeed in this challenge:
 Follow [this complete guide](https://github.com/green-code-initiative/creedengo-common/blob/main/doc/starter-pack.md) to get ready BEFORE the challenge starts!\
 In case of difficulty or question about the installation procedure before the beginning of the challenge, you can [open a ticket here](https://github.com/green-code-initiative/creedengo-common/issues).
 
-WARNING : The "Requirements" part is very important to be ready for the day 1 !
+WARNING : The "Requirements" part is very important to be ready and and not loose time the first day at startup !
 
 ## ✅ What's left to be done
 
